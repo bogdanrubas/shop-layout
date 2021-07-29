@@ -1,0 +1,388 @@
+[
+  {
+    "category": "Buty",
+    "subCategories": [
+      {
+        "subCategory": "Marki",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Etnies",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Supra",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "DC",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Vans",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Nike",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "New Balance",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Emerica",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Element",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Reebok",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Adidas",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Es",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Converse",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Puma",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Timberland",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Palladium",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Circa",
+            "url": "/products"
+          }
+        ]
+      },
+      {
+        "subCategory": "Typ",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Sneakersy",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Buty skate",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Buty zimowe",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Trampki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Buty dziecięce",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Japonki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Klapki",
+            "url": "/products"
+          }
+        ]
+      },
+      {
+        "subCategory": "Fason butów",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Niskie",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Wysokie",
+            "url": "/products"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Odzież",
+    "subCategories": [
+      {
+        "subCategory": "Marki",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Element",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Brixton",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Volcom",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Quiksilver",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Vans",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "DC",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Femi Stories",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "MassDnm",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Burton",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Diamond Supply Co.",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Roxy",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "RVCA",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Diamante Wear",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Stussy",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Nike",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "DGK",
+            "url": "/products"
+          }
+        ]
+      },
+      {
+        "subCategory": "Odzież",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Koszulki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Bluzy",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Spodnie",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Koszule",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Longsleeve",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Kurtki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Szorty",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Czapki z daszkiem",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Czapki zimowe",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Kaszkiety",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Skarpetki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Sukienki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Swetry",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Polo",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Spódnice",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Bielizna",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Stroje kąpielowe",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Kapelusze",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Szaliki",
+            "url": "/products"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Akcesoria",
+    "subCategories": [
+      {
+        "subCategory": "Marki",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Dakine",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Burton",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Element",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Quiksilver",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Roxy",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "DC",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Diamante Wear",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Brixton",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Nervous",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Herschel Supply Co.",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Femi Stories",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Volcom",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Malita",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Patagonia",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Vans",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Ogio",
+            "url": "/products"
+          }
+        ]
+      },
+      {
+        "subCategory": "Typ",
+        "subSubCategories": [
+          {
+            "subSubCategory": "Plecaki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Torby podróżne",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Torby miejskie",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Nerki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Kosmetyczki",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Paski",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Portfele",
+            "url": "/products"
+          },
+          {
+            "subSubCategory": "Okulary przeciwsłoneczne",
+            "url": "/products"
+          }
+        ]
+      }
+    ]
+  }
+]

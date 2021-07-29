@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Renew Rival Shield",
+    "brand": "Nike",
+    "price": 359,
+    "quantity": 1,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/s0dzlgzenxlgo5o4si71/meskie-buty-do-biegania-renew-rival-shield-water-repellent-5qMGSW.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Legend React",
+    "brand": "Nike",
+    "price": 419,
+    "quantity": 2,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dzjwdzhpry9wraoxhln3/meskie-buty-do-biegania-legend-react-RT1MxD.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Epic React Flyknit",
+    "brand": "Nike",
+    "price": 639,
+    "quantity": 1,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bcsek7ifebiimlp6qv4f/meskie-buty-do-biegania-epic-react-flyknit-qz0BHb.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Air Max 97 Premium",
+    "brand": "Nike",
+    "price": 779,
+    "quantity": 3,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/kiqlozzugbcgzuiz96vc/buty-meskie-air-max-97-fKNVSJ.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Air VaporMax ",
+    "brand": "Nike",
+    "price": 799,
+    "quantity": 1,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/rorlp3fk2wrdwiadqcta/buty-meskie-air-vapormax-2019-Tbdn2k.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Air Jordan 12 Retro",
+    "brand": "Nike",
+    "price": 795,
+    "quantity": 2,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/igztoymqxgcidn099odg/buty-meskie-air-jordan-12-retro-GPTgnqLV.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Air VaporMax Flyknit 2 Safari",
+    "brand": "Nike",
+    "price": 889,
+    "quantity": 1,
+    "imgUrl": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/soci1uouc2jwh2uppbyo/buty-meskie-air-vapormax-flyknit-2-safari-xs4GbT.jpg"
+  }
+]
