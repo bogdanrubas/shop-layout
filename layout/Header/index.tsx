@@ -32,7 +32,7 @@ const Header: React.FunctionComponent<HeaderProps> = () => {
       <MobileMenu
         toggleMobileMenu={() => {setOpenMobileMenu(!openMobileMenu)}}
         openMobileMenu={openMobileMenu}
-        menuData={menuData}
+        data={menuData}
       />
     </HeaderWrapper>
   );
