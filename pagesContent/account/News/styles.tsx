@@ -4,7 +4,6 @@ import { theme } from 'config/theme';
 export const Wrapper = styled.div`
   ${theme.media.phone} {
     position: relative;
-    margin-top: -50px;
   }
 `;
 
@@ -25,10 +24,13 @@ export const Title = styled.p`
 `;
 
 export const Grid = styled.div`
-  display: grid;
-  margin: 35px 60px 60px 60px;
-  grid-template-columns: 200px 1fr 200px;
-  grid-gap: 40px;
+  @media (min-width: 1100px) {
+    display: grid;
+    margin: 35px 60px 60px 60px;
+    grid-template-columns: 200px 1fr 200px;
+    grid-gap: 40px;
+
+  }
 `;
 
 export const Thumbnails = styled.div`
@@ -37,7 +39,12 @@ export const Thumbnails = styled.div`
   grid-gap: 40px;
 `;
 
-export const ThumbnailBackground = styled.div`
+interface ThumbnailBackgroundProps {
+  active?: boolean;
+  background?: string;
+}
+
+export const ThumbnailBackground = styled.div<ThumbnailBackgroundProps>`
   &::before {
     ${props => props.active ? `
 
@@ -72,6 +79,7 @@ export const ThumbnailBackground = styled.div`
 export const ThumbnailTitle = styled.p`
   font-size: 20px;
   text-align: center;
+  color: white;
 
 `;
 
@@ -79,6 +87,7 @@ export const ThumbnailDescription = styled.p`
   text-align: center;
   font-size: 20px;
   margin: 40px auto 0 auto;
+  color: white;
   @media (min-width: 1401px) {
     width: 50%;
   }
@@ -107,7 +116,11 @@ export const Button = styled.div`
 
 `;
 
-export const Thumbnail = styled.div`
+interface ThumbnailProps {
+  active?: boolean;
+}
+
+export const Thumbnail = styled.div<ThumbnailProps>`
   &:hover {
     & {
       transform: ${props => props.active ? "" : "scale(1.05)"};
