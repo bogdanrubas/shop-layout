@@ -7,7 +7,6 @@ import menuData from '../../data/menu.json';
 import MobileMenu from './MobileMenu';
 
 interface HeaderProps {
-  openMobileMenu: any;
 
 }
 
