@@ -12,6 +12,7 @@ export const Title = styled.p`
   text-transform: uppercase;
   letter-spacing: 1px;
   display: block;
+  color: ${theme.colors.text.accent};
   ${theme.media.tabletLandscapeUp} {
     margin: 10px 0 0 60px;
   }

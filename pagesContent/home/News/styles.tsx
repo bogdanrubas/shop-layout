@@ -9,6 +9,7 @@ export const Wrapper = styled.div`
 
 export const Title = styled.p`
   font-weight: bold;
+  color: ${theme.colors.text.accent};
   text-transform: uppercase;
   letter-spacing: 1px;
   display: block;
