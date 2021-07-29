@@ -64,11 +64,12 @@ export const Title = styled.div`
   h1 {
     letter-spacing: 1px;
     font-size: ${theme.font.big};
+    color: ${theme.colors.text.accent};
     margin: 0;
   }
 
   small {
-    color: #707070;
+    color: ${theme.colors.text.normal};
     font-size: ${theme.font.small};
   }
 `;

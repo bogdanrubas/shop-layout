@@ -14,6 +14,7 @@ import {
   Price,
   Delete,
 } from './styles';
+import { theme } from '../../../../config/theme';
 
 const Product = props => {
   const {
@@ -42,7 +43,7 @@ const Product = props => {
           <Minus
             styles={{
               size: 12,
-              color: 'black',
+              color: theme.colors.text.accent,
               strokeWidth: 110,
             }}
           />
@@ -54,7 +55,7 @@ const Product = props => {
           <Plus
             styles={{
               size: 12,
-              color: 'black',
+              color: theme.colors.text.accent,
               strokeWidth: 110,
             }}
           />
@@ -75,7 +76,7 @@ const Product = props => {
         <Close
           styles={{
             size: 12,
-            color: 'black',
+            color: theme.colors.text.accent,
             strokeWidth: 110,
           }}
         />

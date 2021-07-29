@@ -57,6 +57,7 @@ export const Title = styled.p`
   display: block;
   font-weight: bold;
   margin: 0;
+  color: ${theme.colors.text.accent};
   @media (min-width: 700px) {
     font-size: 50px;
   }
@@ -74,6 +75,7 @@ export const Title = styled.p`
 export const Description = styled.p`
   transition: transform 450ms ${({ theme }) => theme.cubicBezier} ${props => props.delay}ms, opacity 450ms ${({ theme }) => theme.cubicBezier} ${props => props.delay}ms;
   display: block;
+  color: ${theme.colors.text.normal};
   @media (min-width: 500px) {
     width: 75%;
   }
@@ -95,6 +97,7 @@ export const Button = styled.button`
     padding: 0;
     text-transform: uppercase;
     letter-spacing: 0px;
+    color: ${theme.colors.text.accent};
   }
 `;
 
@@ -105,6 +108,7 @@ export const Price = styled.p`
     display: block;
     font-weight: bold;
     font-size: 40px;
+    color: ${theme.colors.text.accent};
   }
 
   small {

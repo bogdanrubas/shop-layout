@@ -84,7 +84,7 @@ export const DropdownContainer = styled.div`
 
   a {
     &:hover {
-      color: black;
+      color: ${theme.colors.text.accent};
       transform: scale(1.05);
     }
 
@@ -97,7 +97,7 @@ export const DropdownContainer = styled.div`
       transition: 0.3s;
       padding: 5px 0;
       display: block;
-      color: #707070;
+      color: ${theme.colors.text.normal};
     }
   }
 `;

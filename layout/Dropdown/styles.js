@@ -25,6 +25,7 @@ export const Title = styled.div`
     position: relative;
     text-transform: uppercase;
     font-size: 12px;
+    color: ${theme.colors.text.accent};
   }
 
   svg {
@@ -43,7 +44,7 @@ export const Title = styled.div`
     }
 
     path {
-      stroke: black;
+      stroke: ${theme.colors.text.accent};
       stroke-width: 50;
     }
   }
@@ -91,17 +92,17 @@ export const DropdownElement = styled.span`
   border-radius: 5px;
   font-size: 12px;
   padding: 8px 10px;
-  ${({ available, theme }) =>
+  ${({ available }) =>
     available
       ? `
     background: white;
     box-shadow: 0px 2px 20px -1px rgba(0, 0, 0, .08);
-    color: #707070;
+    color: ${theme.colors.accent}
     cursor: pointer;
   `
       : `
     background: transparent;
-    color: #dadada;
+    color: ${theme.colors.text.normal};
   `}
   ${({ chosen }) =>
     chosen

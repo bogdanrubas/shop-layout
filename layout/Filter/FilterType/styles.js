@@ -19,6 +19,7 @@ export const Toggle = styled.div`
     user-select: none;
     text-transform: uppercase;
     font-size: ${theme.font.small};
+    color: ${theme.colors.text.accent};
   }
 
   svg {

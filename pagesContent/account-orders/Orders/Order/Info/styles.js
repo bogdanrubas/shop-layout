@@ -25,7 +25,9 @@ export const Wrapper = styled.div`
 `;
 
 export const Date = styled.div`
-  color: #707070;
+  color: ${theme.colors.text.normal};
 `;
 
-export const Value = styled.div``;
+export const Value = styled.div`
+  color: ${theme.colors.text.accent};
+`;

@@ -149,7 +149,7 @@ export const palette = {
   text: {
     insignificant: "#999999",
     normal: "#707070",
-    accent: "#000000",
+    accent: "black",
     success: "#5cb85c",
     warn: "#ffbb33",
     error: "#ff4444",

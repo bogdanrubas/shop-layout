@@ -59,17 +59,18 @@ export const Name = styled.div`
   }
 
   b {
-
+    color: ${theme.colors.text.accent};
   }
 
   span {
     display: block;
+    color: ${theme.colors.text.normal};
     font-size: ${theme.font.small};
   }
 `;
 
 export const Quantity = styled.div`
-  color: #707070;
+  color: ${theme.colors.text.normal};
   ${theme.media.tabletPortraitUp} {
     text-align: center;
   }
@@ -85,4 +86,5 @@ export const Price = styled.div`
     margin: 10px 0 0 90px;
     display: inline-block;
   }
+  color: ${theme.colors.text.accent};
 `;

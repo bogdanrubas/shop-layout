@@ -53,6 +53,6 @@ export const PageInfo = styled.div`
   }
 
   small {
-    color: #707070;
+    color: ${theme.colors.text.normal};
   }
 `;

@@ -24,6 +24,7 @@ export const Category = styled.li`
   text-transform: uppercase;
   font-size: 14px;
   list-style: none;
+  color: ${theme.colors.text.accent};
 `;
 
 const triangleAnimation = keyframes`
@@ -160,12 +161,13 @@ export const Column = styled.div`
     margin: 0 0 6px 0;
     font-size: 14px;
     text-transform: uppercase;
+    color: ${theme.colors.text.accent};
   }
 
   a {
     &:hover {
       transform: translateX(1px);
-      color: black;
+      color: ${theme.colors.text.accent};
     }
 
     & {
@@ -173,7 +175,7 @@ export const Column = styled.div`
       padding: 0 0 1px 0;
       display: block;
       text-decoration: none;
-      color: #707070;
+      color: ${theme.colors.text.normal};
     }
   }
 `;

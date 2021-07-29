@@ -94,12 +94,13 @@ export const Info = styled.div`
   }
 
   b {
+    color: ${theme.colors.text.accent};
   }
 
   small {
     display: block;
     margin: 2px 0 0 0;
-    color: '#707070'
+    color: ${theme.colors.text.normal};
   }
 `;
 
@@ -157,6 +158,7 @@ export const Price = styled.div`
     grid-area: price;
     font-weight: bold;
     text-align: center;
+    color: ${theme.colors.text.accent};
     @media (max-width: 579px) {
       text-align: left;
     }

@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { theme } from 'config/theme';
 
 export const Wrapper = styled.div`
   padding: 12px 0 25px 0;
@@ -8,7 +9,7 @@ export const Wrapper = styled.div`
 `;
 
 export const LeftColumn = styled.div`
-  color: black;
+  color: ${theme.colors.text.accent};
   font-size: 16px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -20,7 +21,7 @@ export const RightColumn = styled.div`
 `;
 
 export const BigText = styled.b`
-  color: black;
+  color: ${theme.colors.text.accent};
   font-size: 16px;
   white-space: nowrap;
 `;
@@ -29,7 +30,7 @@ export const SmallText = styled.b`
   padding: 3px 0 0 0;
   font-size: 12px;
   display: block;
-  color: #666;
+  color: ${theme.colors.text.normal};
 `;
 
 export const AvailableColors = styled.div`

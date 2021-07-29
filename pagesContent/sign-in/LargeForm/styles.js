@@ -17,4 +17,5 @@ export const Wrapper = styled.div`
   perspective: 1400px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  color: ${theme.colors.text.normal};
 `;

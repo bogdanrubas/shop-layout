@@ -24,7 +24,7 @@ const Info = props => {
         styles={{
           size: 18,
           strokeWidth: 40,
-          color: '#707070',
+          color: theme.colors.text.normal,
         }}
       />
     </Wrapper>
