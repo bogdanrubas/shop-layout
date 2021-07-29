@@ -3,6 +3,6 @@ import PageAccountSettings from 'pagesContent/account-settings';
 
 export default class AccountSettings extends Component {
   render() {
-    return <div></div>
+    return <PageAccountSettings />
   }
 }
