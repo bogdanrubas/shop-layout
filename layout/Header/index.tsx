@@ -5,6 +5,7 @@ import Logo from './Logo';
 import { Container, HeaderWrapper } from './styles';
 import menuData from '../../data/menu.json';
 import MobileMenu from './MobileMenu';
+import Links from './Links';
 
 interface HeaderProps {
 
@@ -23,7 +24,7 @@ const Header: React.FunctionComponent<HeaderProps> = () => {
 
         <Logo />
 
-        {/* <Links menuData={menuData} /> */}
+        <Links menuData={menuData} />
 
         <Icons />
       </Container>
